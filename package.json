@@ -1,0 +1,23 @@
+{
+  "name": "little-tokyo",
+  "version": "1.0.0",
+  "description": "I always say that I like combining coding with art, this has been a project closest to that!",
+  "main": "DRACOLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuroxx/little-tokyo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuroxx/little-tokyo/issues"
+  },
+  "homepage": "https://github.com/kuroxx/little-tokyo#readme",
+  "packageManager": "yarn@4.6.0+sha512.5383cc12567a95f1d668fbe762dfe0075c595b4bfff433be478dbbe24e05251a8e8c3eb992a986667c1d53b6c3a9c85b8398c35a960587fbd9fa3a0915406728",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
